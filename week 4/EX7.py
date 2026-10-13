@@ -1,0 +1,1 @@
+list= ["red", "white", "black", "green", "orange", "purple"]
